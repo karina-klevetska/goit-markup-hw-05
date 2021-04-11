@@ -616,7 +616,7 @@ img {
 }
 
 .projects-link:hover .project-description,
-.project-img:focus .project-description {
+.projects-link:focus .project-description {
   transform: translateY(0);
 }
 
